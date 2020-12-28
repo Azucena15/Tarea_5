@@ -1,0 +1,17 @@
+body {
+    display: block;
+    margin: 8px;
+}
+.class{
+    margin: 20px;
+    keywords: center;
+}
+.ul-estilo {
+    type:"circle";
+}
+
+.h3-ol-li {
+    type: square;
+}
+
+
